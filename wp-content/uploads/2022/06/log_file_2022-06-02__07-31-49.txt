@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Fashion Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/myblog
+Data file = D:\xampp\htdocs\myblog\wp-content\plugins\candid-advanced-toolset\refined-magazine-dummy-data/demo-files/fashion/fashion.xml
+Widget file = D:\xampp\htdocs\myblog\wp-content\plugins\candid-advanced-toolset\refined-magazine-dummy-data/demo-files/fashion/fashion.wie
+Customizer file = D:\xampp\htdocs\myblog\wp-content\plugins\candid-advanced-toolset\refined-magazine-dummy-data/demo-files/fashion/fashion.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Refined Magazine Tabbed - Post Tabbed - Imported
+Refined Magazine Author - About Me - Imported
+Image - Advertisement Image - Imported
+Search - Search - Imported
+Refined Magazine Featured Post - Featured Posts - Imported
+Refined Magazine(125*125) Advertisement - Advertisement 150*150 - Imported
+
+Home Page Widget Area : 
+
+Refined Magazine Two Category Column - No Title - Imported
+Refined Magazine Featured Post - Featured Post - Imported
+Refined Magazine Post Slider - Posts Slider - Imported
+Refined Magazine Grid Post - Grid Posts News - Imported
+Image - No Title - Imported
+Refined Magazine Thumbnail Post - Thumbnail Posts - Imported
+Refined Magazine Featured Post - Popular News - Imported
+Refined Magazine Thumbnail Post - Thumbnail Posts - Imported
+
+Home Page Full Width Area : 
+
+Text - No Title - Imported
+Refined Magazine Grid Post - Most View Stories - Imported
+
+Footer Widget 1 : 
+
+Text - About Us - Imported
+
+Footer Widget 2 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget 3 : 
+
+Refined Magazine(125*125) Advertisement - Advertisement - Imported
+
+Above Footer(Full Width) : 
+
+Image - No Title - Imported
+Refined Magazine Thumbnail Post - Check Most Important Updates -- - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
